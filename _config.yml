@@ -1,0 +1,28 @@
+name: HealthAlchemist
+favicon: null
+layout_spectrum: 0.45767399948090315
+typography_spectrum: 0.9584379924926907
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.710011611925438
+  lightness: 0.6847248210106045
+  saturation: 0.7492288192734122
+  rhythmicContrast: 0.6574571302626282
+purpose: []
