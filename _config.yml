@@ -1,6 +1,6 @@
-name: HealthAlchemist
+name: Health Alchemist
 favicon: null
-layout_spectrum: 0.45767399948090315
+layout_spectrum: 0.89052
 typography_spectrum: 0.9584379924926907
 title: 'The Health Alchemist '
 cta:
@@ -22,7 +22,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.710011611925438
+  brandStrength: 0.5
   lightness: 0.6847248210106045
   saturation: 0.7492288192734122
   rhythmicContrast: 0.6574571302626282
