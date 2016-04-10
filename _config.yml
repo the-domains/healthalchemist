@@ -2,6 +2,7 @@ name: HealthAlchemist
 favicon: null
 layout_spectrum: 0.45767399948090315
 typography_spectrum: 0.9584379924926907
+title: 'The Health Alchemist '
 cta:
   domain: null
   bucket: null
