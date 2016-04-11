@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_ \_My beef with Quest Bars...yep I'm going to ruin them for ya. \n   \n   When it comes down to it the fitness industry loves one thing, and that is protein. No matter who you look at, what their fitness background may be, they will all say the same thing, \"gotta get that protien.\" But its not protein that I'm not vibing with, it's how companies portray their protien products."
-datePublished: '2016-04-11T14:07:11.451Z'
-dateModified: '2016-04-11T14:05:15.045Z'
+datePublished: '2016-04-11T14:12:35.079Z'
+dateModified: '2016-04-11T14:12:19.377Z'
 title: "That's Not Protein Its Corn"
 author: []
 sourcePath: _posts/2016-04-11-thats-not-protein-its-corn.md
