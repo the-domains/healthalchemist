@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Health Alchemist ]]></title>
+        <description><![CDATA[The Health Alchemist ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 13:36:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>   My beef with Quest Bars...yep I'm going to ruin them for ya. 
+   
+   When it comes down to it the fitness industry loves one thing, and that is protein. No matter who you look at, what their fitness background may be, they will all say the same thing, "gotta get that protien." But its not protein that I'm not vibing with, it's how companies portray their protien products.</p>]]></description>
+            <link>undefinedmy-beef-with-quest-barsyep-im-going-to-ruin-them-for/index.html</link>
+            <guid isPermaLink="false">be0a0d4e-b792-47d2-a55e-396a80929f8a</guid>
+            <pubDate>Mon, 11 Apr 2016 13:36:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
